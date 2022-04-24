@@ -1,0 +1,29 @@
+.card{
+    border: 2px solid salmon;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 40px;
+    /* width: 50%; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.image{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    /* display: flex;
+    justify-content: right;
+    align-items: center; */
+    /* flex-direction: column; */
+}
+h4{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
